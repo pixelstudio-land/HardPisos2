@@ -1,0 +1,11 @@
+/* Cores da Marca e Imagem de Fundo */
+:root {
+    /* Cores Principais */
+    --primary: #AF8732;
+    --secondary: #000000;
+    --accent: #25D366;
+    --white: #ffffff;
+
+    /* Imagem de Fundo da Seção Hero */
+    --bg-hero: url('../assets/fundo.jpg');
+}
